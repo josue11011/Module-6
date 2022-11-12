@@ -11,3 +11,5 @@ else:
     for n in range (1,n+1):
         factorial = factorial *n
     print('the factorial of',n,'is',factorial)
+#compare your result with the value obtained from math.factorial
+print("The value from factorial function is {}".format(math.factorial(n))
